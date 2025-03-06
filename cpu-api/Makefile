@@ -15,4 +15,3 @@ p3: p3.c
 
 p4: p4.c
 	gcc -o p4 p4.c -Wall
-
